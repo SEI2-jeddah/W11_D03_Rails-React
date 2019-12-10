@@ -346,3 +346,10 @@ run
 We are all set now! 
 
 
+
+
+
+
+### Resources :
+[Rack cors](https://github.com/cyu/rack-cors)
+[Rails associations](https://guides.rubyonrails.org/association_basics.html)
