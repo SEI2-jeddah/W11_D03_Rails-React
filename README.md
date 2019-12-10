@@ -330,7 +330,7 @@ run
  ```bundle install ```
     
     
-1. Go to your config/application.rb and add the following lines : 
+2 . Go to your config/application.rb and add the following lines : 
 
 *after ```config.load_defaults 6.0``` *
 
