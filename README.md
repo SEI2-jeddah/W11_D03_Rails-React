@@ -314,7 +314,7 @@ ______________________
 
 ### CORS ! 
 
-Ooh no cors error ! how can we fix this ? 
+Ooh no the infamous cors error ! how can we fix this ? 
 
 1. let's go back to our rails application and add a new gem to our gemfile : 
 
@@ -324,7 +324,9 @@ gem 'rack-cors'
 ```
  
 run 
+
  ```bundle exec rake middleware```
+ 
  ```bundle install ```
     
     
